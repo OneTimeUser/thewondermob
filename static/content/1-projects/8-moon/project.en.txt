@@ -1,0 +1,23 @@
+Title: Moon by Ai WeiWei and Olafur Eliasson
+
+----
+
+Text: 
+
+**URL:** (link: http://moonmoonmoonmoon.com/ text: Visit Moon )
+
+Wondermob took part in realizing a landmark and poignant, collaborative public art piece from Ai Weiwei and Olafur Eliasson, two of the most important visual artists living today.
+
+Moon was conceived as an aesthetically minimal but magnificent piece, drawing from the ethos and oeuvre of both artists- Eliasson’s studies of circles and spheres and Ai Weiwei’s steadfast commitment to free expression.  The resultant digital work is a perpetual testament to the ongoing importance global and galactic speech.
+
+Relying heavily on WebGL technology to bring to life the dimensionality of the moon adn atmosphere, the journey leads the user through trippy orbits to a custom drawing canvas that remains permanently etched onto the surface of the moon.  
+
+Moon aims to contain one million marks of sayings, pictures, and thoughts from around the world.
+
+----
+
+Tags: 
+
+----
+
+Thumbimage: thumb.gif

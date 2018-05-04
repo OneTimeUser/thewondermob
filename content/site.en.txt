@@ -1,0 +1,29 @@
+Title: The Wondermob
+
+----
+
+Description: 
+
+----
+
+Copyright: © (date: Year) All Rights Reserved.
+
+----
+
+Showlanguageselector: false
+
+----
+
+Brandname: THE WONDERMOB
+
+----
+
+Email: info@thewondermob.com
+
+----
+
+Phone: 
+
+----
+
+Socials: 

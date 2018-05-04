@@ -1,0 +1,17 @@
+Title: L'Oréal
+
+----
+
+Text: 
+
+For the launch of a new hair product, L’Oréal wanted an interactive gallery to showcase their new product through several hair tutorials. Using a custom gestural detection system, wondermob went about creating the interactivity for a user’s webcam to recognize hand gestures in order to control navigation from within the turotial; thus, users with products on their hands could follow along with the tutorial while his/her keyboard remained free of the sticky product.
+
+Wondermob also created the adjoining microsite to feature the product, show product recommendations, and video collaboration with stylist Kelly Framel of theglamourai.com.
+
+----
+
+Tags: 
+
+----
+
+Thumbimage: thumb.gif

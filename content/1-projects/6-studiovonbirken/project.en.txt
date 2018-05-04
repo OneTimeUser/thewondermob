@@ -1,0 +1,27 @@
+Title: Studio von Birken
+
+----
+
+Text: 
+
+**Check it out: **(link: http://www.studiovonbirken.com text: studiovonbirken.com)
+
+Studio von Birken is in a constant state of reinvention.  It takes a lot of manpower and energy to stay at the fore of design and style, and SvB has few challengers to the sheer brilliance of the lady at the helm.   
+
+Studio von Birken is a straight-forward, simple experience with unexpected complexity under the hood. Built using KirbyCMS for complete customization behind the scenes, randomness is used as a theme across all areas of the interface and experience.
+
+The layout is random. The project categories are random. The projects themselves are random. The landing page is always different each time one navigates to it.
+
+Clicking into an image or anyone of the categorical tags leads one down an endless road with no end, as one image leads to many and many leads to one, and so on.
+
+For a studio as successful, rule-breaking and innovative as Studio von Birken, the senselessness of the site just seems to make sense.
+
+Version 2 saw us reigning in some of the quirk and wildness by boxing in content and adding some navigation as well as an added shop site to purchase the iconography and branded product.
+
+----
+
+Tags: 
+
+----
+
+Thumbimage: thumb.gif
